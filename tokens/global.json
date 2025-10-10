@@ -204,7 +204,7 @@
     },
     "400": {
       "$type": "fontSizes",
-      "$value": "roundTo ({fontSize.300} * 1.125, 0)"
+      "$value": "roundTo({fontSize.300} * 1.125, 0)"
     },
     "500": {
       "$type": "fontSizes",
