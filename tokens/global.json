@@ -10,7 +10,7 @@
     },
     "x100": {
       "$type": "dimension",
-      "$value": "8px"
+      "$value": "4px"
     },
     "x200": {
       "$type": "dimension",
@@ -204,7 +204,7 @@
     },
     "400": {
       "$type": "fontSizes",
-      "$value": "{fontSize.300} * 1.125"
+      "$value": "roundTo ({fontSize.300} * 1.125, 0)"
     },
     "500": {
       "$type": "fontSizes",
