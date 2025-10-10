@@ -10,7 +10,7 @@
     },
     "x100": {
       "$type": "dimension",
-      "$value": "4"
+      "$value": "4px"
     },
     "x200": {
       "$type": "dimension",
