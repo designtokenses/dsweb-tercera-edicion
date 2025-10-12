@@ -43,7 +43,7 @@
         },
         "easing": {
           "$type": "number",
-          "$value": "[0, 0, 0.58, 1]"
+          "$value": "ease-in"
         }
       }
     }
