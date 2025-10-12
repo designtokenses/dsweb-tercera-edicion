@@ -328,6 +328,13 @@
       "$type": "border",
       "$value": {
         "width": "{borderWidth.medium}",
+        "style": "solid"
+      }
+    },
+    "dashed": {
+      "$type": "border",
+      "$value": {
+        "width": "{borderWidth.medium}",
         "style": "dashed"
       }
     }
