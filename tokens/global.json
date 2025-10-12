@@ -337,6 +337,13 @@
         "width": "{borderWidth.medium}",
         "style": "dashed"
       }
+    },
+    "solid": {
+      "$type": "border",
+      "$value": {
+        "width": "{borderWidth.medium}",
+        "style": "solid"
+      }
     }
   }
 }
