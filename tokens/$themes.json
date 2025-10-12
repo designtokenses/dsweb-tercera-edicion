@@ -19,8 +19,7 @@
     },
     "selectedTokenSets": {
       "palette": "source",
-      "mode/light": "enabled",
-      "comp/button/color": "enabled"
+      "mode/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:384",
     "$figmaModeId": "3:0",
@@ -141,8 +140,7 @@
     },
     "selectedTokenSets": {
       "palette": "source",
-      "mode/dark": "enabled",
-      "comp/button/color": "enabled"
+      "mode/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:384",
     "$figmaModeId": "3:1",
@@ -256,8 +254,7 @@
     },
     "selectedTokenSets": {
       "palette": "enabled",
-      "global": "enabled",
-      "comp/button/global": "enabled"
+      "global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:397",
     "$figmaModeId": "3:2",
