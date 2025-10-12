@@ -2,7 +2,6 @@ import { reactRouter } from "@react-router/dev/vite";
 import autoprefixer from "autoprefixer";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
-import netlifyPlugin from '@netlify/vite-plugin-react-router';
 
 export default defineConfig({
   css: {
@@ -10,5 +9,5 @@ export default defineConfig({
       plugins: [autoprefixer],
     },
   },
-  plugins: [reactRouter(), tsconfigPaths(), netlifyPlugin()],
+  plugins: [reactRouter(), tsconfigPaths()],
 });
