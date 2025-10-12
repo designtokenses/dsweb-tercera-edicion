@@ -392,6 +392,10 @@
       "$type": "text",
       "$value": "Copyright © 2025. Todos los derechos reservados."
     },
+    "language": {
+      "$type": "text",
+      "$value": "English"
+    },
     "link": {
       "privacy": {
         "$type": "text",
