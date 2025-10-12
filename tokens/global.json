@@ -322,5 +322,14 @@
         "$value": "ease-in-out"
       }
     }
+  },
+  "border": {
+    "button": {
+      "$type": "border",
+      "$value": {
+        "width": "{borderWidth.medium}",
+        "style": "dashed"
+      }
+    }
   }
 }
