@@ -15198,6 +15198,19 @@ section.sessions {
   color: var(--color-core-content-accent);
 }
 
+.lang .flag {
+  width: 100%;
+  height: 100%;
+}
+
+.lang .flag.en {
+  background: url(/app/assets/english.svg) no-repeat center;
+}
+
+.lang .flag.es {
+  background: url(/app/assets/spanish.svg) no-repeat center;
+}
+
 .copyright {
     // position: absolute;
     // bottom: 40px;

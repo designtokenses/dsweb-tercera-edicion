@@ -115,7 +115,7 @@ export function Layout({ actionData = { theme: 'light ' } }: Route.ComponentProp
               </div>
               <div className="column is-flex lang">
                 <button onClick={changeLang} className="lang-selector">
-                  {matches.find(m => m.id === 'routes/home') ? <img src="/app/assets/spanish.svg" /> : <img src="/app/assets/english.svg" />}
+                  {matches.find(m => m.id === 'routes/home') ? <span className="flag es" /> : <span className="flag en" />}
                   <span>{loaderData.texts.footer.language}</span>
                 </button>
               </div>
