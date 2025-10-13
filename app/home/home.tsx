@@ -172,10 +172,6 @@ export default ({ texts } : { texts: Record<string, Record<string, any>>}) => (
                       </div>
                   </div>
                   <div className="column course">
-                      <div className="company-info mobile links is-hidden-desktop">
-                        <span>¿Necesitas facturar como empresa?</span>
-                        <span>Contáctanos a <a href="mailto:hola@designtokens.es">hola@designtokens.es</a></span>
-                      </div>
                       <div className="dst-dotted-container pricing-container pricing-dotted-container-salient secondary">
                           <div className="info">{texts.pricing.card.two.caption}</div>
                           <div className="title"><h3>{texts.pricing.card.two.title}</h3></div>
@@ -187,10 +183,6 @@ export default ({ texts } : { texts: Record<string, Record<string, any>>}) => (
                           <div className="button">
                               <a href="https://buy.stripe.com/9AQ7wz0ky8AD9IAeUU" className="dst-button primary" target="_blank">{texts.pricing.card.two.button}</a>
                           </div>
-                      </div>
-                      <div className="company-info desktop links is-hidden-mobile">
-                        <span>¿Necesitas facturar como empresa?</span>
-                        <span>Contáctanos a <a href="mailto:hola@designtokens.es">hola@designtokens.es</a></span>
                       </div>
                   </div>
                   <div className="column consultory">

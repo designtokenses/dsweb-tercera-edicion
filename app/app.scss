@@ -14651,7 +14651,7 @@ p {
 
 .dst-dotted-container {
     color: var(--color-core-content-primary);
-    border: dotted .125rem var(--color-core-border-accent);
+    border: var(--border-dashed-style) var(--border-dashed-width) var(--color-core-border-accent);
     border-radius: var(--border-radius-large);
     line-height: normal;
     font-style: normal
@@ -14835,16 +14835,17 @@ p {
     justify-content: center;
     align-items: center;
     padding: 10px 20px;
-    border: 1px solid;
+    border: var(--border-button-width) var(--border-button-style);
     font-size: var(--font-button-default-font-size);
     line-height: var(--font-button-default-line-height);
-    font-weight: var(--font-button-default-font-weight)
+    font-weight: var(--font-button-default-font-weight);
+    transition: transform var(--motion-button-press-duration) var(--motion-button-press-easing);
 }
 
 .dst-button.primary {
     background: var(--color-button-background-primary-default);
     color: var(--color-button-content-primary-default);
-    border-color: var(--color-button-border-primary-default)
+    border-color: var(--color-button-border-primary-default);
 }
 
 .dst-button.primary:hover {
@@ -14856,7 +14857,8 @@ p {
 .dst-button.primary:active {
     background: var(--color-button-background-primary-active);
     color: var(--color-button-content-primary-active);
-    border-color: var(--color-button-border-primary-active)
+    border-color: var(--color-button-border-primary-active);
+    transform: scale(var(--motion-button-press-scale));
 }
 
 .dst-button.secondary {
@@ -14874,7 +14876,8 @@ p {
 .dst-button.secondary:active {
     background: var(--color-button-background-secondary-active);
     color: var(--color-button-content-secondary-active);
-    border-color: var(--color-button-border-secondary-active)
+    border-color: var(--color-button-border-secondary-active);
+    transform: scale(var(--motion-button-press-scale));
 }
 
 .dst-badges {
@@ -14911,7 +14914,7 @@ p {
     align-items: flex-start;
     align-self: stretch;
     border-radius: var(--border-radius-medium);
-    border: 1px solid var(--color-core-border-primary);
+    border: var(--border-solid-width) var(--border-solid-style) var(--color-core-border-primary);
     background: var(--color-core-background-surface)
 }
 

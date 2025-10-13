@@ -1,12 +1,8 @@
-import type { Route } from './+types/index';
+import { useOutletContext } from 'react-router';
 import HomePage from '../home/home';
 
-export async function loader () {
-  const texts = await import('../texts.json');
+export default function Index() {
+  const [texts]: [Record<string, Record<string, any>>] = useOutletContext();
 
-  return { texts };
-}
-
-export default function Index({ loaderData } : Route.ComponentProps) {
-  return <HomePage texts={loaderData.texts} />
+  return <HomePage texts={texts} />
 }

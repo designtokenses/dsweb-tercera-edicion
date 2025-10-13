@@ -1,12 +1,8 @@
-import type { Route } from './+types/home';
+import { useOutletContext } from 'react-router';
 import HomePage from '../home/home';
 
-export async function loader () {
-  const texts = await import('../build/en/texts.json');
+export default function Home() {
+  const [texts]: [Record<string, Record<string, any>>] = useOutletContext();
 
-  return { texts };
-}
-
-export default function Home({ loaderData } : Route.ComponentProps) {
-  return <HomePage texts={loaderData.texts} />
+  return <HomePage texts={texts} />
 }
