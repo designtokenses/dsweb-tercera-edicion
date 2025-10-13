@@ -16,7 +16,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.800}"
+          "$value": "{color.palette.accent.800}"
         }
       },
       "background": {
@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.700}"
+          "$value": "{color.palette.accent.700}"
         },
         "accent-light": {
           "$type": "color",
@@ -48,7 +48,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.400}"
+          "$value": "{color.palette.accent.400}"
         }
       }
     },
