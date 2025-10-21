@@ -4,11 +4,11 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.black}"
+          "$value": "{color.palette.accent.950}"
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.700}"
+          "$value": "{color.palette.holaaa.700}"
         },
         "inverse": {
           "$type": "color",
@@ -17,6 +17,10 @@
         "accent": {
           "$type": "color",
           "$value": "{color.palette.accent.800}"
+        },
+        "accent-copy": {
+          "$type": "color",
+          "$value": "{color.palette.accent.100}"
         }
       },
       "background": {

@@ -38,10 +38,6 @@
           "$type": "color",
           "$value": "#5b616e"
         },
-        "700": {
-          "$type": "color",
-          "$value": "#4a4e5a"
-        },
         "800": {
           "$type": "color",
           "$value": "#40444c"
@@ -53,6 +49,12 @@
         "950": {
           "$type": "color",
           "$value": "#18191C"
+        }
+      },
+      "holaaa": {
+        "700": {
+          "$type": "color",
+          "$value": "#2056f8"
         }
       },
       "negative": {

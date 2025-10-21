@@ -74,7 +74,8 @@
       "color.button.border.primary.active": "9d421c8a0af8883ac50e33278c4c727236494448",
       "color.button.border.secondary.default": "217cb201ba586a5b2ade4f1db566509c33acd0cc",
       "color.button.border.secondary.hover": "8fa0e17605b290f18771800956c4e8e7591f313c",
-      "color.button.border.secondary.active": "b5a59e4fc7c4f5b466f5c70f349f6e4dda12630e"
+      "color.button.border.secondary.active": "b5a59e4fc7c4f5b466f5c70f349f6e4dda12630e",
+      "color.core.content.accent-copy": "50e7877a608899ee8c7ad040c01bce177cf2ea27"
     },
     "group": "mode"
   },
@@ -372,7 +373,6 @@
       "color.palette.mono.400": "a2219fa77869fe7b206e5a2041e571d126958579",
       "color.palette.mono.500": "63b1b55437fc7150549e2344f18b02cc4e415448",
       "color.palette.mono.600": "58030e9b4007ecee56828441247db9b7c6d1f487",
-      "color.palette.mono.700": "f5ba39323b9e88db7f583bfc17ef325e2f48179a",
       "color.palette.mono.800": "796241b518c1ee81cf39e51d59c25081dfddbde3",
       "color.palette.mono.900": "5c8c2cbb17d7baabcd843815067ad319b37b5c25",
       "color.palette.mono.950": "44a0200f8138a3ec3fd3fddaee7da994cca7b4a9",
@@ -419,7 +419,8 @@
       "color.palette.accent.700": "699e06bee9f4b59c014f18b10d0a90203dc002ef",
       "color.palette.accent.800": "c69d8d86e82d72d1dcfc4943e99424b113aabc30",
       "color.palette.accent.900": "e2b659b6e612664801a157c928eaf073477b69bd",
-      "color.palette.accent.950": "2ee9332070e7ba99ca6d9353ee40daa4736ffa3a"
+      "color.palette.accent.950": "2ee9332070e7ba99ca6d9353ee40daa4736ffa3a",
+      "color.palette.holaaa.700": "f5ba39323b9e88db7f583bfc17ef325e2f48179a"
     }
   },
   {
