@@ -2,7 +2,7 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Bienvenido mundo!"
+      "$value": "holaaa!"
     },
     "subtitle": {
       "$type": "text",

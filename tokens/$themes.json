@@ -356,7 +356,7 @@
       "letterSpacing.default": "f92c1668199230934d8bbc124e280aecb0cbfc1e",
       "letterSpacing.expanded": "4d20efc8e875c786c63fec4226aa661354795711",
       "letterSpacing.contracted": "f34ba43aa501bcf8208f24d48de335f312f5baac",
-      "sizing.button.height.default": "7dca16fcb705c235ad875a825528b9b1bdef0fab",
+      "sizing.interactive.height.default": "7dca16fcb705c235ad875a825528b9b1bdef0fab",
       "motion.button.press.scale": "9754a626bb769b8f2310d5829fb89618d5a04335",
       "motion.button.press.duration": "d6d5810d8eb45e792d3b4cd6c53aa01e803275dd",
       "motion.button.press.easing": "259bc22f049ceee2e40d7c7c70e91481446829f8",
@@ -376,6 +376,7 @@
       "color.palette.mono.800": "796241b518c1ee81cf39e51d59c25081dfddbde3",
       "color.palette.mono.900": "5c8c2cbb17d7baabcd843815067ad319b37b5c25",
       "color.palette.mono.950": "44a0200f8138a3ec3fd3fddaee7da994cca7b4a9",
+      "color.palette.holaaa.700": "f5ba39323b9e88db7f583bfc17ef325e2f48179a",
       "color.palette.negative.50": "a5f63ed3f85c6cb3c34e992f16a100df72a7c514",
       "color.palette.negative.100": "b94d8ef385e1c1ed45b237e6be71e9ae67de5783",
       "color.palette.negative.200": "d18361618fb8ce294ae0a48f6752efcb1ad1eac3",
@@ -420,7 +421,17 @@
       "color.palette.accent.800": "c69d8d86e82d72d1dcfc4943e99424b113aabc30",
       "color.palette.accent.900": "e2b659b6e612664801a157c928eaf073477b69bd",
       "color.palette.accent.950": "2ee9332070e7ba99ca6d9353ee40daa4736ffa3a",
-      "color.palette.holaaa.700": "f5ba39323b9e88db7f583bfc17ef325e2f48179a"
+      "color.palette.brand.50": "8032e3e2e583917c0c7aebd1c537bfb2dfc50eb0",
+      "color.palette.brand.100": "9e1aebdd911e8436ac50dccb17c4760bfecd0610",
+      "color.palette.brand.200": "9533e8568da9fe387d6cd16084e1867c3650a3c4",
+      "color.palette.brand.300": "0b89239b18265ab11171550db3828c4d9079c8a1",
+      "color.palette.brand.400": "aba80e7dbe0d35905f8d9574554dbd5ab6501920",
+      "color.palette.brand.500": "804414b3e7f9046192218ed88aca2e6b9ff3c19a",
+      "color.palette.brand.600": "e2f27f310277de6c70c0bcf9638fd76e38142a6a",
+      "color.palette.brand.700": "5bdaf1ee18295b75c66ba928d00ad6450ba05ff5",
+      "color.palette.brand.800": "40e20ad846c878d202a4e4a4f688c66489fa857f",
+      "color.palette.brand.900": "7a269ed62aca5251255dc7296ce6f4226a412acd",
+      "color.palette.brand.950": "cc4896050a49b35bba3d8d3eb425a40a96f3f618"
     }
   },
   {

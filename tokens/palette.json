@@ -7,7 +7,7 @@
       },
       "white": {
         "$type": "color",
-        "$value": "#ffffff"
+        "$value": "#fafafa"
       },
       "mono": {
         "50": {
@@ -196,6 +196,52 @@
         }
       },
       "accent": {
+        "50": {
+          "$type": "color",
+          "$value": "#e9f5ff"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#d7ecff"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#b8daff"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8dc0ff"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6098ff"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#3c71ff"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#1a44ff"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#1036F2"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#1133ca"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#173298"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#0e1c58"
+        }
+      },
+      "brand": {
         "50": {
           "$type": "color",
           "$value": "#e9f5ff"

@@ -16,7 +16,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.800}"
+          "$value": "{color.palette.negative.600}"
         },
         "accent-copy": {
           "$type": "color",
@@ -175,7 +175,7 @@
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-light.svg"
+        "$value": "dibujo.svg"
       }
     },
     "header": {
